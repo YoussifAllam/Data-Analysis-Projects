@@ -12,7 +12,3 @@ The datasets used for this script contain bike share data for the first six mont
 
 
 __NOTE: unzip dataset.zip to get all cities dataset before running the script__
-
-## Youtube links to explain the project and the code __(IN ARABIC)__
-Overview: https://www.youtube.com/watch?v=Z1Ncob63BLo
-Code: https://youtu.be/5Fl5MPaFrH4
